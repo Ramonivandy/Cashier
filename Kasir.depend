@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495261315 source:d:\coding\email kirim\kasir\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
